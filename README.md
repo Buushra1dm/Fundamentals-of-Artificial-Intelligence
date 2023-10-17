@@ -15,4 +15,18 @@ In the beginning, he will ask the student if he wants to study in Saudi Arabia o
 
 
 
-#Game rules: #1-It consists of two players (user, computer) #2-The user plays against the computer #3-The Grandfather beats the Boy #4-The Boy beats the Girl #5-The Girl beat the Grandfather
+
+
+#2. KGB GAME
+This project aims to application the KGB game using artificial intelligence algorithms. In this project, we have implemented a stochastic algorithm that allows computer to look many moves ahead, thus picking the move that optimizes its chances of thewinning. It is a game that can be played by two people consisting of three random cards, each of whom must draw a card and reveal its identity, and according to the priority of the card, the winner will be announced. You get a higher priority card than your opponent until you achieve the goal
+
+2.3 HOW TO PLAY KGB
+
+The draw is done randomly for each of the players, and the choice will fall on (girl / boy / king). The king can beat the boy, the boy can beat the girl, but only the girl can beat the king, and the winner is achieved based on this method.
+
+
+#Game rules: #1-It consists of two players (user, computer) 
+#2-The user plays against the computer 
+#3-The Grandfather beats the Boy 
+#4-The Boy beats the Girl 
+#5-The Girl beat the Grandfather
