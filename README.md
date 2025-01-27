@@ -25,7 +25,8 @@ This project aims to application the KGB game using artificial intelligence algo
 The draw is done randomly for each of the players, and the choice will fall on (girl / boy / king). The king can beat the boy, the boy can beat the girl, but only the girl can beat the king, and the winner is achieved based on this method.
 
 
-## Game rules: #1-It consists of two players (user, computer) 
+## Game rules: 
+### 1-It consists of two players (user, computer) 
 ### 2-The user plays against the computer 
 ### 3-The Grandfather beats the Boy 
 ### 4-The Boy beats the Girl 
